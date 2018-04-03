@@ -13,6 +13,22 @@ Our web application will provide a reliable way for UH students to track the sta
 
 <h2>Mockup pages</h2>
 *insert images*
+<h3>Landing Page</h3>
+<h3>Admin Page</h3>
+<h3>User Page showing available laundry rooms</h3>
+<h3>Washing Maching Usage Page for each dorm</h3>
+
+<h2>Contact Us</h2>
+<ul>
+  <li>Riley Cammack: rcammack@hawaii.edu</li>
+  <li>Justin Pham: @hawaii.edu</li>
+  <li>Olivia Murray: @hawaii.edu</li>
+  <li>David Badke: @hawaii.edu</li>
+</ul>
+
+<h1>further instructions from johnson and TODO (delete when finished)</h1>
+mockup page images
+fill in contact us emails
 
 Your index.md file should contain the following sections:
 
