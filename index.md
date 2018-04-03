@@ -1,10 +1,10 @@
-#Wash-n-Dash
+<h1>Wash-n-Dash</h1>
 
-#goals of the project
+<h2>goals of the project</h2>
 
-#what the system should eventually provide
+<h2>what the system should eventually provide</h2>
 
-#screenshots of the mockup pages you plan to use as a basis for your final project
+<h2>screenshots of the mockup pages you plan to use as a basis for your final project</h2>
 
 For small applications, the organization’s index.md file should provide all of the required documentation for the system (outside of code-level documentation). Your index.md file should contain the following sections.
 
