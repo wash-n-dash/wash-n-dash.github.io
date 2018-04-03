@@ -38,7 +38,7 @@ Timers
 <ul>
   <li>Riley Cammack: rcammack@hawaii.edu</li>
   <li>Justin Pham: jpham79@hawaii.edu</li>
-  <li>Olivia Murray: @hawaii.edu</li>
+  <li>Olivia Murray: omurray4@hawaii.edu</li>
   <li>David Badke: @hawaii.edu</li>
 </ul>
 
