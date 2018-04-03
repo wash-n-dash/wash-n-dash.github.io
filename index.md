@@ -1,12 +1,20 @@
 <h1>Wash-n-Dash</h1>
 
-<h2>goals of the project</h2>
+<h2>Goals</h2>
+Our goals for this project are the following:
+<ol>
+  <li>To become more familiar with designing a project using IntelliJ Idea</li>
+  <li>To learn how to implement a multi-user system</li>
+  <li>To utilize databases (mongoDB) efficiently</li>
+</ol>
 
-<h2>what the system should eventually provide</h2>
+<h2>What will our system eventually provide?</h2>
+Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room
 
-<h2>screenshots of the mockup pages you plan to use as a basis for your final project</h2>
+<h2>Mockup pages</h2>
+*insert images*
 
-For small applications, the organization’s index.md file should provide all of the required documentation for the system (outside of code-level documentation). Your index.md file should contain the following sections.
+Your index.md file should contain the following sections:
 
 About. Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
 
