@@ -28,6 +28,7 @@ Our web application will provide a reliable way for UH students to track the sta
 
 <h1>further instructions from johnson and TODO (delete when finished)</h1>
 mockup page images
+
 fill in contact us emails
 
 Your index.md file should contain the following sections:
