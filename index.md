@@ -12,6 +12,8 @@ Our goals for this project are the following:
 Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
 
 <h2>About</h2>
+Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+
 <h3>Mockup pages</h3>
 *insert images*
 <h4>Landing Page</h4>
@@ -21,41 +23,29 @@ Our web application will provide a reliable way for UH students to track the sta
 
 
 <h2>Installation</h2>
+Explains how to download, install, and (if necessary) deploy the system.
 
 
 <h2>Application Design</h2>
+Explains how the system was designed. See the BowFolios system for details.
 
 
 <h2>Development History</h2>
 Landing Page
+
 Washing Machines/Dryers Page
+
 Clone of Pages for each location
+
 Timers
 
 
 <h2>Contact Us</h2>
+Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
+
 <ul>
   <li>Riley Cammack: rcammack@hawaii.edu</li>
   <li>Justin Pham: jpham79@hawaii.edu</li>
   <li>Olivia Murray: omurray4@hawaii.edu</li>
   <li>David Badke: @hawaii.edu</li>
 </ul>
-
-<h1>further instructions from johnson and TODO (delete when finished)</h1>
-mockup page images
-
-fill in contact us emails
-
-Your index.md file should contain the following sections:
-
-About. Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
-
-Installation. Explains how to download, install, and (if necessary) deploy the system.
-
-Application design. Explains how the system was designed. See the BowFolios system for details.
-
-Development history. Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
-
-Contact Us. Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
-
-
