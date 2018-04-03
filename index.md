@@ -12,7 +12,12 @@ Our goals for this project are the following:
 Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
 
 <h2>About</h2>
-
+<h3>Mockup pages</h3>
+*insert images*
+<h4>Landing Page</h4>
+<h4>Admin Page</h4>
+<h4>User Page showing available laundry rooms</h4>
+<h4>Washing Maching Usage Page for each dorm</h4>
 
 <h2>Installation</h2>
 
@@ -26,13 +31,6 @@ Washing Machines/Dryers Page
 Clone of Pages for each location
 Timers
 
-
-<h2>Mockup pages</h2>
-*insert images*
-<h3>Landing Page</h3>
-<h3>Admin Page</h3>
-<h3>User Page showing available laundry rooms</h3>
-<h3>Washing Maching Usage Page for each dorm</h3>
 
 <h2>Contact Us</h2>
 <ul>
