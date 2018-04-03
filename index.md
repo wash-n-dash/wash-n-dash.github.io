@@ -9,7 +9,23 @@ Our goals for this project are the following:
 </ol>
 
 <h2>What will our system eventually provide?</h2>
-Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room
+Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
+
+<h2>About</h2>
+
+
+<h2>Installation</h2>
+
+
+<h2>Application Design</h2>
+
+
+<h2>Development History</h2>
+Landing Page
+Washing Machines/Dryers Page
+Clone of Pages for each location
+Timers
+
 
 <h2>Mockup pages</h2>
 *insert images*
@@ -21,7 +37,7 @@ Our web application will provide a reliable way for UH students to track the sta
 <h2>Contact Us</h2>
 <ul>
   <li>Riley Cammack: rcammack@hawaii.edu</li>
-  <li>Justin Pham: @hawaii.edu</li>
+  <li>Justin Pham: jpham79@hawaii.edu</li>
   <li>Olivia Murray: @hawaii.edu</li>
   <li>David Badke: @hawaii.edu</li>
 </ul>
