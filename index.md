@@ -31,11 +31,15 @@ The solution: A web application that allows students to update the status of was
 
 Landing Page
 
+Login Page
+
+Signup Page
+
 Admin Page
 
-User Page showing available laundry rooms
+Washing Maching/Dryers Usage Page for each dorm
 
-Washing Maching Usage Page for each dorm
+User Page showing available laundry rooms
 
 
 # Installation Instructions
@@ -65,25 +69,37 @@ Coming Soon
 
 # Development History
 
-### Milestone 1: Mockup development
+### Milestone 1: Mockup and Data Model Development
 This milestone started on 4/2/18 and ends on 4/12/18
 
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system which we developed as a Meteor app. 
+The goals of Milestone 1 include the following: 
+* Create a set of HTML pages providing a mockup of the pages in the system
+* Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
+* Connect the user interface to the underlying data model
 
-Mockups for the following four pages were implemented during M1:
-
-Milestone 1 was implemented as [Wash-N-Dash GitHub Milestone M1](https://github.com/wash-n-dash)
-
-Milestone 1 consisted of 8 issues, and progress was managed via the [Wasg-N-Dash GitHub Project M1](https://github.com/wash-n-dash):
-
-
-Each issue was implemented in its own branch, and merged into master when completed.
+Milestone 1 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M1](https://github.com/wash-n-dash)
 
 
-requirements:
+### Milestone 2: Authentication and Administration
+This milestone started on 4/12/18 and ends on 4/24/18
 
-Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
-Use Issue Driven Project Management practices.
+The goals of Milestone 2 include the following: 
+* Set up authentication using the University of Hawaii test CAS system
+* Create an administrator role in the system to override non-admin users' actions
+
+Milestone 2 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M2](https://github.com/wash-n-dash)
+
+
+### Milestone 3: Authentication and Administration
+This milestone started on 4/24/18 and ends on 5/4/18
+
+The goals of Milestone 3 include the following: 
+* Applying a raspberry pi appliance monitor (using a vibration sensor) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
+
+Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M3](https://github.com/wash-n-dash)
+
+
+# further requirements to be completed by 4/12: 
 
 Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
 
@@ -95,14 +111,6 @@ A link to the M2 Project page, showing the issues expected to be addressed durin
 
 Adherence to the GitHub hosting guidelines.
 
-
-Landing Page
-
-Washing Machines/Dryers Page
-
-Clone of Pages for each location
-
-Timers
 
 # Contact Us
 If you have comments or questions please contact one of the developers of the system:
