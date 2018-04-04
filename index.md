@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Goals](#goals)
-* [About](#about)
-* [Installation](#installation)
+* [About](#about-wash-n-dash)
+* [Installation](#installation-instructions)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
 * [Development history](#development-history)
@@ -52,7 +52,7 @@ Clone of Pages for each location
 
 Timers
 
-### Milestone 1 Requirements
+### Milestone 1: Mockup development
 Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
 Use Issue Driven Project Management practices.
 
