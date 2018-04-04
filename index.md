@@ -39,9 +39,7 @@ Signup Page
 
 Admin Page
 
-Washing Maching/Dryers Usage Page for each dorm
-
-User Page showing available laundry rooms
+Washing Maching/Dryers Usage Page(s)
 
 
 # Installation Instructions
