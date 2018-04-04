@@ -55,7 +55,7 @@ How to download, install, and deploy the system:
  </li>
  
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
-
+</ol>
 
 # Application Design
 
