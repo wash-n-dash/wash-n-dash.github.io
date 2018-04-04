@@ -12,7 +12,9 @@ Our goals for this project are the following:
 Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
 
 <h2>About</h2>
-Summarizes what the system does and what makes it special and different from other related applications. Provide at least one screen shot of every page. This initial section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
+
+The solution: A web application that allows students to update the status of washing machines in use. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
 <h3>Mockup pages</h3>
 *insert images*
@@ -23,11 +25,11 @@ Summarizes what the system does and what makes it special and different from oth
 
 
 <h2>Installation</h2>
-Explains how to download, install, and (if necessary) deploy the system.
+Coming Soon -Explains how to download, install, and (if necessary) deploy the system.
 
 
 <h2>Application Design</h2>
-Explains how the system was designed. See the BowFolios system for details.
+Coming Soon -Explains how the system was designed. 
 
 
 <h2>Development History</h2>
@@ -41,11 +43,10 @@ Timers
 
 
 <h2>Contact Us</h2>
-Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
-
+If you have comments or questions please contact one of the developers of the system:
 <ul>
-  <li>Riley Cammack: rcammack@hawaii.edu</li>
-  <li>Justin Pham: jpham79@hawaii.edu</li>
-  <li>Olivia Murray: omurray4@hawaii.edu</li>
-  <li>David Badke: @hawaii.edu</li>
+  <li>Riley Cammack (CENG): rcammack@hawaii.edu</li>
+  <li>Justin Pham (CS): jpham79@hawaii.edu</li>
+  <li>Olivia Murray (CS): omurray4@hawaii.edu</li>
+  <li>David Badke (CS): @hawaii.edu</li>
 </ul>
