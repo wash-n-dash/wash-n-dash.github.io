@@ -50,3 +50,14 @@ If you have comments or questions please contact one of the developers of the sy
   <li>Olivia Murray (CS): omurray4@hawaii.edu</li>
   <li>David Badke (CS): @hawaii.edu</li>
 </ul>
+
+<h2>Milestone 1 requirements</h2>
+Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
+
+A link to the running deployment of your system on Galaxy.
+
+A link to the M1 Project page, showing what issues were completed for this milestone. It is appropriate that by the time of the due date, there are no issues in the BackLog or In Progress for this milestone.
+
+A link to the M2 Project page, showing the issues expected to be addressed during the second Milestone for this project.
+
+Adherence to the GitHub hosting guidelines.
