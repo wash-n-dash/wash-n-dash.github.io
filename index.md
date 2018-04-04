@@ -28,9 +28,13 @@ The solution: A web application that allows students to update the status of was
 
 ### Mockup Pages
 *insert images*
+
 Landing Page
+
 Admin Page
+
 User Page showing available laundry rooms
+
 Washing Maching Usage Page for each dorm
 
 
