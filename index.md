@@ -5,7 +5,9 @@
 * [Installation](#installation-instructions)
 * [Application design](#application-design)
 * [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 1: Mockup and Data Model Development](#mockup-and-data-model-development)
+  * [Milestone 2: Authentication and Administration](#authentication-and-administration)
+  * [Milestone 3: Raspberry Pi](#raspberry-pi-appliance-monitor)
 * [Contact us](#contact-us)
 
 
@@ -90,7 +92,7 @@ The goals of Milestone 2 include the following:
 Milestone 2 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M2](https://github.com/wash-n-dash)
 
 
-### Milestone 3: Authentication and Administration
+### Milestone 3: Raspberry Pi Appliance Monitor
 This milestone started on 4/24/18 and ends on 5/4/18
 
 The goals of Milestone 3 include the following: 
