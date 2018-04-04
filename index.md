@@ -79,7 +79,7 @@ The goals of Milestone 1 include the following:
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 * Connect the user interface to the underlying data model
 
-Milestone 1 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M1](https://github.com/wash-n-dash)
+Milestone 1 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash)
 
 
 ### Milestone 2: Authentication and Administration
@@ -96,7 +96,7 @@ Milestone 2 consisted of 8 issues (2 per developer), and progress was managed vi
 This milestone started on 4/24/18 and ends on 5/4/18
 
 The goals of Milestone 3 include the following: 
-* Applying a raspberry pi appliance monitor (using a vibration sensor) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
+* Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
 Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M3](https://github.com/wash-n-dash)
 
