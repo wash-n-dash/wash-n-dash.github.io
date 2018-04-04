@@ -29,8 +29,10 @@ Our goals for this project are the following:
   <li>To utilize databases (mongoDB) efficiently</li>
 </ol>
 
-<h2>What will our system eventually provide?</h2>
+<h3>What will our system eventually provide?</h3>
 Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
+
+![]
 
 # About
 The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
