@@ -85,23 +85,23 @@ Milestone 1 consisted of 8 issues (2 per developer), and progress was managed vi
 ### Milestone 2: Authentication and Administration
 This milestone started on 4/12/18 and ends on 4/24/18
 
-The goals of Milestone 2 include the following: 
+The goals of Milestone 2 include the following:
 * Set up authentication using the University of Hawaii test CAS system
 * Create an administrator role in the system to override non-admin users' actions
 
-Milestone 2 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M2](https://github.com/wash-n-dash)
+Milestone 2 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash)
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
 This milestone started on 4/24/18 and ends on 5/4/18
 
-The goals of Milestone 3 include the following: 
+The goals of Milestone 3 include the following:
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
-Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wasg-N-Dash GitHub Project M3](https://github.com/wash-n-dash)
+Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash)
 
 
-# further requirements to be completed by 4/12: 
+# further requirements to be completed by 4/12:
 
 Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
 
