@@ -18,16 +18,16 @@ Our goals for this project are the following:
   <li>To utilize databases (mongoDB) efficiently</li>
 </ol>
 
-<h3>What will our system eventually provide?</h3>
+### What will our system eventually provide?
 Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
 
 
-# About
+# About Wash-N-Dash
 The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
 
 The solution: A web application that allows students to update the status of washing machines in use. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
-### Mockup pages
+### Mockup Pages
 *insert images*
 <b>Landing Page</b>
 <b>Admin Page</b>
@@ -35,13 +35,13 @@ The solution: A web application that allows students to update the status of was
 <b>Washing Maching Usage Page for each dorm</b>
 
 
-# Installation
+# Installation Instructions
 Coming Soon -Explains how to download, install, and (if necessary) deploy the system.
 
 
 # Application Design
 Coming Soon -Explains how the system was designed. 
-### Directory structure
+### Directory Structure
 
 # Development History
 Landing Page
@@ -52,7 +52,7 @@ Clone of Pages for each location
 
 Timers
 
-### Milestone 1 requirements
+### Milestone 1 Requirements
 Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
 Use Issue Driven Project Management practices.
 
