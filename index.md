@@ -4,7 +4,6 @@
 * [About](#about-wash-n-dash)
 * [Installation](#installation-instructions)
 * [Application design](#application-design)
-  * [Directory structure](#directory-structure)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Contact us](#contact-us)
@@ -36,21 +35,15 @@ The solution: A web application that allows students to update the status of was
 
 
 # Installation Instructions
-Coming Soon -Explains how to download, install, and (if necessary) deploy the system.
+Coming Soon -Explains how to download, install, and deploy the system.
 
 
 # Application Design
-Coming Soon -Explains how the system was designed. 
+
 ### Directory Structure
+Coming Soon
 
 # Development History
-Landing Page
-
-Washing Machines/Dryers Page
-
-Clone of Pages for each location
-
-Timers
 
 ### Milestone 1: Mockup development
 Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
@@ -66,6 +59,13 @@ A link to the M2 Project page, showing the issues expected to be addressed durin
 
 Adherence to the GitHub hosting guidelines.
 
+Landing Page
+
+Washing Machines/Dryers Page
+
+Clone of Pages for each location
+
+Timers
 
 # Contact Us
 If you have comments or questions please contact one of the developers of the system:
