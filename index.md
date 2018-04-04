@@ -53,6 +53,9 @@ If you have comments or questions please contact one of the developers of the sy
 </ul>
 
 <h2>Milestone 1 requirements</h2>
+Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
+Use Issue Driven Project Management practices.
+
 Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
 
 A link to the running deployment of your system on Galaxy.
