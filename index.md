@@ -5,9 +5,9 @@
 * [Installation](#installation-instructions)
 * [Application design](#application-design)
 * [Development history](#development-history)
-  * [Milestone 1: Mockup and Data Model Development](#Milestone-1:-Mockup-and-Data-Model-Development)
-  * [Milestone 2: Authentication and Administration](#milestone-2:-authentication-and-administration)
-  * [Milestone 3: Raspberry Pi](#milestone-3:-raspberry-pi-appliance-monitor)
+  * [Milestone 1: Mockup and Data Model Development](#Milestone-1-Mockup-and-Data-Model-Development)
+  * [Milestone 2: Authentication and Administration](#milestone-2-authentication-and-administration)
+  * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
 * [Contact us](#contact-us)
 
 
