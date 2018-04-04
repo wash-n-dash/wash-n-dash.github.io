@@ -36,26 +36,23 @@ The solution: A web application that allows students to update the status of was
 
 # Installation Instructions
 How to download, install, and deploy the system:
-<ol>
- <li>[install Meteor](https://www.meteor.com/install).</li>
+1. [install Meteor](https://www.meteor.com/install).
 
- <li>[download a copy of Wash-N-Dash](https://github.com/wash-n-dash), or clone it using git.</li>
+2. [download a copy of Wash-N-Dash](https://github.com/wash-n-dash), or clone it using git.
   
- <li>cd into the app/ directory and install libraries with:
+3. cd into the app/ directory and install libraries with:
 
  ```
  $ meteor npm install
  ```
- </li>
- <li>run the system with:
+
+4. run the system with:
 
  ```
  $ meteor npm run start
  ```
- </li>
  
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
-</ol>
 
 # Application Design
 
