@@ -66,6 +66,22 @@ Coming Soon
 # Development History
 
 ### Milestone 1: Mockup development
+This milestone started on 4/2/18 and ends on 4/12/18
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system which we developed as a Meteor app. 
+
+Mockups for the following four pages were implemented during M1:
+
+Milestone 1 was implemented as [Wash-N-Dash GitHub Milestone M1](https://github.com/wash-n-dash)
+
+Milestone 1 consisted of 8 issues, and progress was managed via the [Wasg-N-Dash GitHub Project M1](https://github.com/wash-n-dash):
+
+
+Each issue was implemented in its own branch, and merged into master when completed.
+
+
+requirements:
+
 Use GitHub issues and a GitHub project called “M1” to manage the development of this release of the system.
 Use Issue Driven Project Management practices.
 
@@ -78,6 +94,7 @@ A link to the M1 Project page, showing what issues were completed for this miles
 A link to the M2 Project page, showing the issues expected to be addressed during the second Milestone for this project.
 
 Adherence to the GitHub hosting guidelines.
+
 
 Landing Page
 
