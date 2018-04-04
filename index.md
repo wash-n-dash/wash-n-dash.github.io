@@ -1,4 +1,5 @@
-<h1>Wash-n-Dash</h1>
+<h2>Table of Contents</h2>
+
 
 <h2>Goals</h2>
 Our goals for this project are the following:
@@ -16,12 +17,12 @@ The problem: UH students often waste too much time walking down with a full bask
 
 The solution: A web application that allows students to update the status of washing machines in use. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
-<h3>Mockup pages</h3>
+<h4>Mockup pages</h4>
 *insert images*
-<h4>Landing Page</h4>
-<h4>Admin Page</h4>
-<h4>User Page showing available laundry rooms</h4>
-<h4>Washing Maching Usage Page for each dorm</h4>
+<b>Landing Page</b>
+<b>Admin Page</b>
+<b>User Page showing available laundry rooms</b>
+<b>Washing Maching Usage Page for each dorm</b>
 
 
 <h2>Installation</h2>
