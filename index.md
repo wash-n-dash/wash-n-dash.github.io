@@ -46,7 +46,7 @@ How to download, install, and deploy the system:
  $ meteor npm install
  ```
 
-4. run the system with:
+5. run the system with:
 
  ```
  $ meteor npm run start
