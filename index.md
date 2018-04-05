@@ -123,7 +123,7 @@ Adherence to the GitHub hosting guidelines.
 * Riley Cammack (CENG): rcammack@hawaii.edu
   * loves ice cream and playing catan
 * Justin Pham (CS): jpham79@hawaii.edu
-  * 
+  * Student by day, gamer by night
 * Olivia Murray (CS): omurray4@hawaii.edu
   * 
 * David Badke (CS): @hawaii.edu
