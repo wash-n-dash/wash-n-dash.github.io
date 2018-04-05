@@ -40,13 +40,13 @@ Signup Page
 ![](docs/mockSignup.png)
 
 Washing Machine Usage Page
-![](docs/mockWashers.png)
+![](docs/mockWashers.PNG)
 
 Dryer Usage Page
-![](docs/mockDryers.png)
+![](docs/mockDryers.PNG)
 
 Admin Page
-![](docs/mockAdmin.png)
+![](docs/mockAdmin.PNG)
 
 
 # Installation Instructions
