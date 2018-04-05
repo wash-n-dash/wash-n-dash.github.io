@@ -120,10 +120,11 @@ Adherence to the GitHub hosting guidelines.
 
 
 # Contact Us
-If you have comments or questions please contact one of the developers of the system:
-<ul>
-  <li>Riley Cammack (CENG): rcammack@hawaii.edu</li>
-  <li>Justin Pham (CS): jpham79@hawaii.edu</li>
-  <li>Olivia Murray (CS): omurray4@hawaii.edu</li>
-  <li>David Badke (CS): @hawaii.edu</li>
-</ul>
+* Riley Cammack (CENG): rcammack@hawaii.edu
+  * loves ice cream and playing catan
+* Justin Pham (CS): jpham79@hawaii.edu
+  * 
+* Olivia Murray (CS): omurray4@hawaii.edu
+  * 
+* David Badke (CS): @hawaii.edu
+  * 
