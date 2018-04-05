@@ -32,10 +32,13 @@ The solution: A web application that allows students to update the status of was
 *insert images*
 
 Landing Page
+![](docs/mockLanding.png)
 
 Login Page
+![](docs/mockLogin.png)
 
 Signup Page
+![](docs/mockSignup.png)
 
 Admin Page
 
