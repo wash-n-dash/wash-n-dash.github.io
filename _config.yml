@@ -1,3 +1,5 @@
+github:
+  repository_url: https://github.com/wash-n-dash/wash-n-dash
 theme: jekyll-theme-slate
 title: [Wash-N-Dash]
 description: [A web application to track the status of laundry rooms at UH dorms]
