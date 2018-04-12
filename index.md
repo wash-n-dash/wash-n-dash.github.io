@@ -133,15 +133,15 @@ The following pages were implemented during M1:
 
 Landing Page
 
-[<img width="400px" src="docs/Landing-New.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/Landing-New-1.png">](http://washndash.meteorapp.com/#/)
 
 Signin Page
 
-[<img width="400px" src="docs/Sign-In-1.png">](http://washndash.meteorapp.com/#/signin)
+[<img width="400px" src="docs/Signin-1.png">](http://washndash.meteorapp.com/#/signin)
 
 Signup Page
 
-[<img width="400px" src="docs/Sign-Up-1.png">](http://washndash.meteorapp.com/#/signup)
+[<img width="400px" src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
 
 Washer Usage Page
 
