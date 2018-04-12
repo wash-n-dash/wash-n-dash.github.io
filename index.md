@@ -128,6 +128,10 @@ Milestone 1 consisted of 8 issues (2 per developer), and progress was managed vi
 
 [View the app on Galaxy](http://washndash.meteorapp.com/#/)
 
+The following pages were implemented during M1:
+
+[<img width="200px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
+
 Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
 
 A link to the running deployment of your system on Galaxy.
