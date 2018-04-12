@@ -4,6 +4,7 @@
 * [About](#about-wash-n-dash)
 * [Installation](#installation-instructions)
 * [Application design](#application-design)
+  * [Directory structure](#directory-structure)
 * [Development history](#development-history)
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
@@ -72,7 +73,47 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 # Application Design
 
 ### Directory Structure
-Coming Soon
+The top-level directory structure contains:
+
+```
+app/        # holds the Meteor application sources
+config/     # holds configuration files, such as settings.development.json
+.gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
+```
+
+This structure separates configuration files (such as the settings files) in the config/ directory from the actual Meteor application in the app/ directory.
+
+The app/ directory has this top-level structure:
+
+```
+client/
+  style.css     
+  main.html      
+  main.js        # import all the client-side html and js files. 
+
+imports/
+  api/           
+    machine/
+  startup/       # Define code to run when system starts up (client-only, server-only)
+    both/
+    client/        
+    server/        
+  ui/
+    components/  # templates that appear inside a page template.
+    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
+    pages/       # Pages are navigated to by FlowRouter routes.
+
+node_modules/    # managed by Meteor
+
+private/
+  database/      # holds the JSON file used to initialize the database on startup.
+
+public/          
+  images/        # holds static images for landing page and predefined sample users.
+  
+server/
+   main.js       # import all the server-side js files.
+```
 
 # Development History
 
@@ -84,6 +125,12 @@ The goals of Milestone 1 include the following:
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 
 Milestone 1 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1)
+
+[View the app on Galaxy](http://washndash.meteorapp.com/#/)
+
+Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
+
+A link to the running deployment of your system on Galaxy.
 
 
 ### Milestone 2: Administration
@@ -105,19 +152,6 @@ The goals of Milestone 3 include the following:
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
 Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
-
-
-# further requirements to be completed by 4/12:
-
-Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
-
-A link to the running deployment of your system on Galaxy.
-
-A link to the M1 Project page, showing what issues were completed for this milestone. It is appropriate that by the time of the due date, there are no issues in the BackLog or In Progress for this milestone.
-
-A link to the M2 Project page, showing the issues expected to be addressed during the second Milestone for this project.
-
-Adherence to the GitHub hosting guidelines.
 
 
 # Contact Us
