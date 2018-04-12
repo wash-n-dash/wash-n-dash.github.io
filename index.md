@@ -115,26 +115,27 @@ server/
    main.js       # import all the server-side js files.
 ```
 
+
 # Development History
 
 ### Milestone 1: Mockup and Data Model Development
-This milestone started on 4/2/18 and ends on 4/12/18
+This milestone started on 4/2/18 and ended on 4/12/18
 
-The goals of Milestone 1 include the following: 
+The goals of Milestone 1 included the following: 
 * Create a set of HTML pages providing a mockup of the pages in the system
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 
-Milestone 1 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1)
+Milestone 1 consisted of 9 issues (at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1)
 
-[View the app on Galaxy](http://washndash.meteorapp.com/#/)
+[View the deployed app here](http://washndash.meteorapp.com/#/)
 
 The following pages were implemented during M1:
 
-[<img width="200px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
-
-Up-to-date screen shots showing the state of the project. Each screenshot should be documented with a link to the same page running on Galaxy.
-
-A link to the running deployment of your system on Galaxy.
+[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/signin)
+[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/signup)
+[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
 
 
 ### Milestone 2: Administration
