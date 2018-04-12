@@ -125,7 +125,7 @@ The goals of Milestone 1 included the following:
 * Create a set of HTML pages providing a mockup of the pages in the system
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 
-Milestone 1 consisted of 9 issues (at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1)
+Milestone 1 consisted of 8 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1)
 
 [View the deployed app here](http://washndash.meteorapp.com/#/)
 
