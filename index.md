@@ -131,11 +131,11 @@ Milestone 1 consisted of 8 issues (assigned to at least 2 per developer), and pr
 
 The following pages were implemented during M1:
 
-[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
-[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/signin)
-[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/signup)
-[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
-[<img width="400px" src="docs/mockLanding.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/Landing-New.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/Sign-In-1.png">](http://washndash.meteorapp.com/#/signin)
+[<img width="400px" src="docs/Sign-Up-1.png">](http://washndash.meteorapp.com/#/signup)
+[<img width="400px" src="docs/Washer-Page-1.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/Dryer-Page-1.png">](http://washndash.meteorapp.com/#/)
 
 
 ### Milestone 2: Administration
