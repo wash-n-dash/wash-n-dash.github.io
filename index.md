@@ -1,44 +1,48 @@
-[View the deployed app here](http://washndash.meteorapp.com/#/)
-
 # Table of contents
 
 * [About](#about-wash-n-dash)
 * [Installation](#installation-instructions)
-* [Application design](#application-design)
-  * [Directory structure](#directory-structure)
-* [Development history](#development-history)
+* [Application Design](#application-design)
+  * [Directory Structure](#directory-structure)
+* [Development History](#development-history)
+  * [Milestone 0: Initial Idea](#milestone-1-initial-idea)
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
   * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
 * [Goals](#goals)
-* [Contact us](#contact-us)
+* [Contact Us](#contact-us)
 
 
 # About Wash-N-Dash
+[View the deployed app here](http://washndash.meteorapp.com/#/)
+
 The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
 
 ### What will our system eventually provide?
 Our web application will provide a reliable way for UH students to track and update the status of the usage of washers/dryers in their dorm's laundry room. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
-### Mockup Pages
+### Current Status
+Our web application currently performs as follows: 
 
-Landing Page
-![](docs/mockLanding.png)
+When you come to the site, you are taken to the following landing page:
 
-Login Page
-![](docs/mockLogin.png)
+[<img width="400px" src="docs/Landing-New-1.png">](http://washndash.meteorapp.com/#/)
 
-Signup Page
-![](docs/mockSignup.png)
+You can then either sign in to your account...
 
-Washing Usage Page
-![](docs/mockWashers.PNG)
+[<img width="400px" src="docs/Signin-1.png">](http://washndash.meteorapp.com/#/signin)
 
-Dryer Usage Page
-![](docs/mockDryers.PNG)
+...or sign up a new account.  
 
-Admin Page
-![](docs/mockAdmin.PNG)
+[<img width="400px" src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
+
+Once logged in, you can view the available washers on the washers page:  
+
+[<img width="400px" src="docs/Washer-Page-1.png">](http://washndash.meteorapp.com/#/washers)
+
+In addition, you can view the available dryers on the dryers page: 
+
+[<img width="400px" src="docs/Dryer-Page-1.png">](http://washndash.meteorapp.com/#/dryers)
 
 
 # Installation Instructions
@@ -108,6 +112,28 @@ server/
 
 
 # Development History
+
+### Milestone 0: Initial Idea
+Before starting this project, we created the following designs for the mockup pages: 
+
+Landing Page
+![](docs/mockLanding.png)
+
+Login Page
+![](docs/mockLogin.png)
+
+Signup Page
+![](docs/mockSignup.png)
+
+Washing Usage Page
+![](docs/mockWashers.PNG)
+
+Dryer Usage Page
+![](docs/mockDryers.PNG)
+
+Admin Page
+![](docs/mockAdmin.PNG)
+
 
 ### Milestone 1: Mockup and Data Model Development
 This milestone started on 4/2/18 and ended on 4/12/18
