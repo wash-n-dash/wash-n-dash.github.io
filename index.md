@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Goals](#goals)
 * [About](#about-wash-n-dash)
 * [Installation](#installation-instructions)
 * [Application design](#application-design)
@@ -9,25 +8,15 @@
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
   * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
+* [Goals](#goals)
 * [Contact us](#contact-us)
-
-
-# Goals
-Our goals for this project are the following:
-<ol>
-  <li>To become more familiar with designing a project using IntelliJ Idea</li>
-  <li>To learn how to implement a multi-user system</li>
-  <li>To utilize databases (mongoDB) efficiently</li>
-</ol>
-
-### What will our system eventually provide?
-Our web application will provide a reliable way for UH students to track the status of the washers/dryers in their dorm's laundry room. 
 
 
 # About Wash-N-Dash
 The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
 
-The solution: A web application that allows students to update the status of washing machines in use. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
+### What will our system eventually provide?
+Our web application will provide a reliable way for UH students to track and update the status of the usage of washers/dryers in their dorm's laundry room. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
 ### Mockup Pages
 
@@ -171,6 +160,15 @@ The goals of Milestone 3 include the following:
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
 Milestone 3 consisted of 8 issues (2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
+
+
+# Goals
+Our goals for this project are the following:
+<ol>
+  <li>To become more familiar with designing a project using IntelliJ Idea</li>
+  <li>To learn how to implement a multi-user system</li>
+  <li>To utilize databases (mongoDB) efficiently</li>
+</ol>
 
 
 # Contact Us
