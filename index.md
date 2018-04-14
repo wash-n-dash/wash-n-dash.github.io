@@ -198,11 +198,11 @@ Our goals for this project are the following:
 
 
 # Contact Us
-* Riley Cammack (CENG): rcammack@hawaii.edu
+* [Riley Cammack](https://rcammack.github.io/) (CENG): rcammack@hawaii.edu
   * loves ice cream and playing catan
-* Justin Pham (CS): jpham79@hawaii.edu
+* [Justin Pham](https://jpham79.github.io/) (CS): jpham79@hawaii.edu
   * Student by day, gamer by night
-* Olivia Murray (CS): omurray4@hawaii.edu
+* [Olivia Murray](https://olivia-murray.github.io/) (CS): omurray4@hawaii.edu
   * 
 * David Badke (CS): @hawaii.edu
   * 
