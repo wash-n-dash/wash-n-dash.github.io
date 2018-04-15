@@ -114,7 +114,7 @@ server/
 # Development History
 
 ### Milestone 0: Initial Idea
-Before starting this project, we created the following designs for the mockup pages: 
+Before editing any code for this project, we created the following designs for the mockup pages: 
 
 Landing Page
 ![](docs/mockLanding.png)
