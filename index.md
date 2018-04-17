@@ -115,22 +115,22 @@ server/
 Before editing any code for this project, we created the following designs for the mockup pages: 
 
 Landing Page
-![](docs/mockLanding.png)
+<img width="400px" src="docs/mockLanding.png">
 
 Login Page
-![](docs/mockLogin.png)
+<img width="400px" src="docs/mockLogin.png">
 
 Signup Page
-![](docs/mockSignup.png)
+<img width="400px" src="docs/mockSignup.png">
 
 Washing Usage Page
-![](docs/mockWashers.PNG)
+<img width="400px" src="docs/mockWashers.PNG">
 
 Dryer Usage Page
-![](docs/mockDryers.PNG)
+<img width="400px" src="docs/mockDryers.PNG">
 
 Admin Page
-![](docs/mockAdmin.PNG)
+<img width="400px" src="docs/mockAdmin.PNG">
 
 
 ### Milestone 1: Mockup and Data Model Development
