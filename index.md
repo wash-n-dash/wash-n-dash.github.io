@@ -14,14 +14,11 @@
 
 
 # About Wash-N-Dash
-[View the deployed app here](http://washndash.meteorapp.com/#/)
-
 The problem: UH students often waste too much time walking down with a full basket of laundry just to find all the washing machines are in use.  
 
-### What will our system eventually provide?
 Our web application will provide a reliable way for UH students to track and update the status of the usage of washers/dryers in their dorm's laundry room. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
-### Current Status
+### System Walkthough
 Our web application currently performs as follows: 
 
 When you come to the site, you are taken to the following landing page:
@@ -44,20 +41,21 @@ In addition, you can view the available dryers on the dryers page:
 
 [<img width="400px" src="docs/Dryer-Page-1.png">](http://washndash.meteorapp.com/#/dryers)
 
+[View the deployed app here](http://washndash.meteorapp.com/#/)
 
 # Installation Instructions
 How to download, install, and deploy the system:
-1. [install Meteor](https://www.meteor.com/install).
+* [install Meteor](https://www.meteor.com/install).
 
-2. [download a copy of Wash-N-Dash](https://github.com/wash-n-dash), or clone it using git.
+* [download a copy of Wash-N-Dash](https://github.com/wash-n-dash), or clone it using git.
   
-3. cd into the app/ directory and install libraries with:
+* cd into the app/ directory and install libraries with:
 
  ```
  $ meteor npm install
  ```
 
-4. run the system with:
+* run the system with:
 
  ```
  $ meteor npm run start
@@ -186,15 +184,6 @@ The goals of Milestone 3 include the following:
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
 Milestone 3 consisted of # issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
-
-
-# Goals
-Our goals for this project are the following:
-<ol>
-  <li>To become more familiar with designing a project using IntelliJ Idea</li>
-  <li>To learn how to implement a multi-user system</li>
-  <li>To utilize databases (mongoDB) efficiently</li>
-</ol>
 
 
 # Contact Us
