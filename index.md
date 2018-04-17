@@ -115,21 +115,27 @@ server/
 Before editing any code for this project, we created the following designs for the mockup pages: 
 
 Landing Page
+
 <img width="400px" src="docs/mockLanding.png">
 
 Login Page
+
 <img width="400px" src="docs/mockLogin.png">
 
 Signup Page
+
 <img width="400px" src="docs/mockSignup.png">
 
 Washing Usage Page
+
 <img width="400px" src="docs/mockWashers.PNG">
 
 Dryer Usage Page
+
 <img width="400px" src="docs/mockDryers.PNG">
 
 Admin Page
+
 <img width="400px" src="docs/mockAdmin.PNG">
 
 
