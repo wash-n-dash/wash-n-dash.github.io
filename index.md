@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](#about-wash-n-dash)
+* [Overview](#about-wash-n-dash)
 * [Installation](#installation-instructions)
 * [Application Design](#application-design)
   * [Directory Structure](#directory-structure)
@@ -23,7 +23,7 @@ Our web application currently performs as follows:
 
 When you come to the site, you are taken to the following landing page:
 
-[<img width="400px" src="docs/Landing-New-1.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/landing-M2.png">](http://washndash.meteorapp.com/#/)
 
 You can then either sign in to your account...
 
@@ -33,13 +33,9 @@ You can then either sign in to your account...
 
 [<img width="400px" src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
 
-Once logged in, you can view the available washers on the washers page:  
+Once logged in, you can view the available washers/dryers on the machines page:  
 
-[<img width="400px" src="docs/Washer-Page-1.png">](http://washndash.meteorapp.com/#/washers)
-
-In addition, you can view the available dryers on the dryers page: 
-
-[<img width="400px" src="docs/Dryer-Page-1.png">](http://washndash.meteorapp.com/#/dryers)
+[<img width="400px" src="docs/machine-M2.png">](http://washndash.meteorapp.com/#/machines)
 
 [View the deployed app here](http://washndash.meteorapp.com/#/)
 
@@ -152,23 +148,23 @@ The following pages were implemented during M1:
 
 Landing Page
 
-[<img width="400px" src="docs/Landing-New-1.png">](http://washndash.meteorapp.com/#/)
+[<img width="400px" src="docs/Landing-New-1.png">]
 
 Signin Page
 
-[<img width="400px" src="docs/Signin-1.png">](http://washndash.meteorapp.com/#/signin)
+[<img width="400px" src="docs/Signin-1.png">]
 
 Signup Page
 
-[<img width="400px" src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
+[<img width="400px" src="docs/Signup-1.png">]
 
 Washer Usage Page
 
-[<img width="400px" src="docs/Washer-Page-1.png">](http://washndash.meteorapp.com/#/washers)
+[<img width="400px" src="docs/Washer-Page-1.png">]
 
 Dryer Usage Page
 
-[<img width="400px" src="docs/Dryer-Page-1.png">](http://washndash.meteorapp.com/#/dryers)
+[<img width="400px" src="docs/Dryer-Page-1.png">]
 
 
 ### Milestone 2: Administration
@@ -179,7 +175,17 @@ The goals of Milestone 2 include the following:
 * Connect the user interface to the underlying data model
 * Create an administrator role in the system to override non-admin users' actions
 
-Milestone 2 consisted of 11 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
+Milestone 2 consisted of 12 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
+
+The following additional/edited pages were implemented during M2:
+
+Landing Page
+
+[<img width="400px" src="docs/landing-M2.png">](http://washndash.meteorapp.com/#/)
+
+Available Machines Page (which replaced Washer/Dryer Usage Pages)
+
+[<img width="400px" src="docs/machine-M2.png">](http://washndash.meteorapp.com/#/machines)
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
