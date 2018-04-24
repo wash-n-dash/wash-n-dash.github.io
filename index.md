@@ -9,7 +9,7 @@
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
   * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
-* [Goals](#goals)
+* [Community Feedback](#community-feedback)
 * [Contact Us](#contact-us)
 
 
@@ -196,6 +196,10 @@ The goals of Milestone 3 include the following:
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
 Milestone 3 consisted of # issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
+
+
+# Community Feedback
+We asked 5 people to tell us how we can improve our application:
 
 
 # Contact Us
