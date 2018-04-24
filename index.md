@@ -148,23 +148,23 @@ The following pages were implemented during M1:
 
 Landing Page
 
-[<img width="400px" src="docs/Landing-New-1.png">]
+<img width="400px" src="docs/Landing-New-1.png">
 
 Signin Page
 
-[<img width="400px" src="docs/Signin-1.png">]
+<img width="400px" src="docs/Signin-1.png">
 
 Signup Page
 
-[<img width="400px" src="docs/Signup-1.png">]
+<img width="400px" src="docs/Signup-1.png">
 
 Washer Usage Page
 
-[<img width="400px" src="docs/Washer-Page-1.png">]
+<img width="400px" src="docs/Washer-Page-1.png">
 
 Dryer Usage Page
 
-[<img width="400px" src="docs/Dryer-Page-1.png">]
+<img width="400px" src="docs/Dryer-Page-1.png">
 
 
 ### Milestone 2: Administration
@@ -181,11 +181,11 @@ The following additional/edited pages were implemented during M2:
 
 Landing Page
 
-[<img width="400px" src="docs/landing-M2.png">](http://washndash.meteorapp.com/#/)
+<img width="400px" src="docs/landing-M2.png">
 
 Available Machines Page (which replaced Washer/Dryer Usage Pages)
 
-[<img width="400px" src="docs/machine-M2.png">](http://washndash.meteorapp.com/#/machines)
+<img width="400px" src="docs/machine-M2.png">
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
