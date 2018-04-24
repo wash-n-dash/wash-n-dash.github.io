@@ -172,9 +172,9 @@ Dryer Usage Page
 
 
 ### Milestone 2: Administration
-This milestone started on 4/12/18 and ends on 4/24/18
+This milestone started on 4/12/18 and ended on 4/24/18
 
-The goals of Milestone 2 include the following:
+The goals of Milestone 2 included the following:
 * Edit washer/dryer pages to be interactive
 * Connect the user interface to the underlying data model
 * Create an administrator role in the system to override non-admin users' actions
