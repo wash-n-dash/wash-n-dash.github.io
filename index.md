@@ -146,7 +146,7 @@ The goals of Milestone 1 included the following:
 * Create a set of HTML pages providing a mockup of the pages in the system
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 
-Milestone 1 consisted of 8 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1).
+Milestone 1 consisted of 8 issues and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1).
 
 The following pages were implemented during M1:
 
@@ -179,7 +179,7 @@ The goals of Milestone 2 included the following:
 * Connect the user interface to the underlying data model
 * Create an administrator role in the system to override non-admin users' actions
 
-Milestone 2 consisted of 10 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
+Milestone 2 consisted of 10 issues and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
 
 The following additional/edited pages were implemented during M2:
 
@@ -201,7 +201,7 @@ The goals of Milestone 3 include the following:
 * Set up authentication using the University of Hawaii test CAS system
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
-Milestone 3 consisted of # issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
+Milestone 3 consisted of # issues and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
 
 
 # Community Feedback
