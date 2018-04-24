@@ -41,6 +41,20 @@ You can click the update button on any machine card to add 15 minutes to the tim
 
 [<img width="400px" src="docs/machineModal-M2.png">](http://washndash.meteorapp.com/#/machines)
 
+If you log in as a user with the role of administration then one of the additional pages available, the admin page, shows the table of machines with their corresponding number, machine type, location, and time remaining status.  You are also able to toggle between enabled/disabled for each machine.  
+
+[<img width="400px" src="docs/admin-M2.png">](http://washndash.meteorapp.com/#/admin)
+
+When you click on the "add machine" button, another row is added to the table with default editable data. 
+
+[<img width="400px" src="docs/adminAdd-M2.png">](http://washndash.meteorapp.com/#/admin)
+
+The other additional page visible for only admin users is the report page. The table lists all of the reports and their corresponding machine numbers. You can manage the reports here by choosing to delete a report which asks for a confirmation before actually removing it. 
+
+[<img width="400px" src="docs/adminReport-M2.png">](http://washndash.meteorapp.com/#/reports)
+
+[<img width="400px" src="docs/adminReportModal-M2.png">](http://washndash.meteorapp.com/#/reports)
+
 [View the deployed app here](http://washndash.meteorapp.com/#/)
 
 # Installation Instructions
@@ -197,9 +211,11 @@ Admin Page
 
 <img width="400px" src="docs/admin-M2.png">
 
-Admin Report Page
+Admin Report Page and confirmation modal
 
 <img width="400px" src="docs/adminReport-M2.png">
+
+<img width="400px" src="docs/adminReportModal-M2.png">
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
