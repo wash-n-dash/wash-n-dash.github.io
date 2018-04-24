@@ -199,8 +199,14 @@ Milestone 3 consisted of # issues (assigned to at least 2 per developer), and pr
 
 
 # Community Feedback
-We asked 5 people to tell us how we can improve our application:
-
+We asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
+* add a reservation feature for machines (to show intended use)
+* have the description on the landing page by clickable
+* have a list view for the machines in addition to the card view
+* make it more obvious if a washer is in use on the cards
+* show the washer and dryer counts together on the landing page
+* move the washer and dryer counts more towards the top of the landing page
+* add location to cards
 
 # Contact Us
 * [Riley Cammack](https://rcammack.github.io/) (CENG): rcammack@hawaii.edu
