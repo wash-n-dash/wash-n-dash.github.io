@@ -33,9 +33,11 @@ From the landing page, you can click the login dropdown in the menu bar. You can
 
 [<img width="400px" src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
 
-Once logged in, you can view the available washers/dryers on the following machines page. On this page, a user can filter the machine cards (which display the machine type, machine number, location, and time remaining until available) by location or by machine type using the two multiple-selection search dropdowns. You can click the update button on any machine to add 15 minutes to the time remaining field or you can click the report button which brings up a modal. In the modal you can add a timestamped report and view all past reports for that machine. 
+Once logged in, you can view the available washers/dryers on the following machines page. On this page, a user can filter the machine cards (which display the machine type, machine number, location, and time remaining until available) by location or by machine type using the two multiple-selection search dropdowns. 
 
 [<img width="400px" src="docs/machine-M2.png">](http://washndash.meteorapp.com/#/machines)
+
+You can click the update button on any machine card to add 15 minutes to the time remaining field or you can click the report button which brings up a modal. In the modal you can add a timestamped report and view all past reports for that machine. 
 
 [<img width="400px" src="docs/machineModal-M2.png">](http://washndash.meteorapp.com/#/machines)
 
