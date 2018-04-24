@@ -187,7 +187,7 @@ Landing Page
 
 <img width="400px" src="docs/landing-M2.png">
 
-Available Machines Page (which replaced Washer/Dryer Usage Pages) with modal
+Available Machines Page (which replaced Washer/Dryer Usage Pages) with report modal
 
 <img width="400px" src="docs/machine-M2.png">
 
