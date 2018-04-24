@@ -177,7 +177,7 @@ This milestone started on 4/12/18 and ended on 4/24/18
 The goals of Milestone 2 included the following:
 * Edit washer/dryer pages to be interactive
 * Connect the user interface to the underlying data model
-* Create an administrator role in the system to override non-admin users' actions
+* Create an administrator role in the system to manage the machines
 
 Milestone 2 consisted of 10 issues and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
 
@@ -187,11 +187,19 @@ Landing Page
 
 <img width="400px" src="docs/landing-M2.png">
 
-Available Machines Page (which replaced Washer/Dryer Usage Pages) with report modal
+Available Machines Page (which replaced Washer/Dryer Usage Pages) and report modal
 
 <img width="400px" src="docs/machine-M2.png">
 
 <img width="400px" src="docs/machineModal-M2.png">
+
+Admin Page
+
+<img width="400px" src="docs/admin-M2.png">
+
+Admin Report Page
+
+<img width="400px" src="docs/adminReport-M2.png">
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
