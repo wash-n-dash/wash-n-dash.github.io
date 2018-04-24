@@ -179,7 +179,7 @@ The goals of Milestone 2 included the following:
 * Connect the user interface to the underlying data model
 * Create an administrator role in the system to override non-admin users' actions
 
-Milestone 2 consisted of 12 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
+Milestone 2 consisted of 10 issues (assigned to at least 2 per developer), and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
 
 The following additional/edited pages were implemented during M2:
 
