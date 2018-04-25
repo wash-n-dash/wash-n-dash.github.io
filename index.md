@@ -5,7 +5,7 @@
 * [Application Design](#application-design)
   * [Directory Structure](#directory-structure)
 * [Development History](#development-history)
-  * [Milestone 0: Initial Idea](#milestone-1-initial-idea)
+  * [Milestone 0: Initial Idea](#milestone-0-initial-idea)
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
   * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
