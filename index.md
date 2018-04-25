@@ -51,9 +51,9 @@ When you click on the "add machine" button, another row is added to the table wi
 
 The other additional page visible for only admin users is the report page. The table lists all of the reports and their corresponding machine numbers. You can manage the reports here by choosing to delete a report which asks for a confirmation before actually removing it. 
 
-[<img float="left" width="400px" src="docs/adminReport-M2.png">](http://washndash.meteorapp.com/#/reports)
+[<img src="docs/adminReport-M2.png">](http://washndash.meteorapp.com/#/reports)
 
-[<img float="right" width="400px" src="docs/adminReportModal-M2.png">](http://washndash.meteorapp.com/#/reports)
+[<img src="docs/adminReportModal-M2.png">](http://washndash.meteorapp.com/#/reports)
 
 [View the deployed app here](http://washndash.meteorapp.com/#/)
 
@@ -160,7 +160,7 @@ The goals of Milestone 1 included the following:
 * Create a set of HTML pages providing a mockup of the pages in the system
 * Implement the data model which is the underlying set of Mongo Collections and the operations upon them that would support our application
 
-Milestone 1 consisted of 8 issues and progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1).
+Milestone 1 was implemented as [Wash-N-Dash GitHub Milestone M1](https://github.com/wash-n-dash/wash-n-dash/milestone/1) and consisted of 8 issues. Progress was managed via the [Wash-N-Dash GitHub Project M1](https://github.com/wash-n-dash/wash-n-dash/projects/1). 
 
 The following pages were implemented during M1:
 
@@ -193,7 +193,7 @@ The goals of Milestone 2 included the following:
 * Connect the user interface to the underlying data model
 * Create an administrator role in the system to manage the machines
 
-Milestone 2 consisted of 10 issues and progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2).
+Milestone 2 was implemented as [Wash-N-Dash GitHub Milestone M2](https://github.com/wash-n-dash/wash-n-dash/milestone/2) and consisted of 10 issues. Progress was managed via the [Wash-N-Dash GitHub Project M2](https://github.com/wash-n-dash/wash-n-dash/projects/2). 
 
 The following additional/edited pages were implemented during M2:
 
@@ -225,7 +225,7 @@ The goals of Milestone 3 include the following:
 * Set up authentication using the University of Hawaii test CAS system
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
-Milestone 3 consisted of # issues and progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3)
+Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.com/wash-n-dash/wash-n-dash/milestone/3) and consisted of # issues. Progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3). 
 
 
 # Community Feedback
