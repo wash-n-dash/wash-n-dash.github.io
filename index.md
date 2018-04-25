@@ -18,10 +18,12 @@ The problem: UH students often waste too much time walking down with a full bask
 
 Our web application will provide a reliable way for UH students to track and update the status of the usage of washers/dryers in their dorm's laundry room. This way, students won’t have to walk down and be disappointed when no washing machines are available. The minimal version of this app requires a student to manually use the app to indicate the status of the washers when they are in the room. In the future the application may utilize a raspberry pi appliance monitor to automatically update the status of each machine’s availability on the website. This status will be displayed in the app with a timestamp, so that students accessing the app from their room can assess the reliability of the information. An admin user will have the additional capability to override the displayed status of the machines including showing if a washing machine/dryer is broken. This application is uniquely designed to reflect the status of UH Manoa laundry room(s).  
 
+[You can view the deployed app here](http://washndash.meteorapp.com/#/)
+
 ### System Walkthough
 Our web application currently performs as follows: 
 
-When you come to the site, you are taken to the following landing page where you can read a description about the application and view the number of available washers and dryers. 
+When you come to [the deployed app](http://washndash.meteorapp.com/#/), you are taken to the following landing page where you can read a description about the application and view the number of available washers and dryers. 
 
 [<img src="docs/landing-M2.png">](http://washndash.meteorapp.com/#/)
 
@@ -55,7 +57,6 @@ The other additional page visible for only admin users is the report page. The t
 
 [<img src="docs/adminReportModal-M2.png">](http://washndash.meteorapp.com/#/reports)
 
-[View the deployed app here](http://washndash.meteorapp.com/#/)
 
 # Installation Instructions
 How to download, install, and deploy the system:
