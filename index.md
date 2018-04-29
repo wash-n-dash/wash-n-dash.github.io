@@ -9,7 +9,7 @@
   * [Milestone 1: Mockup and Data Model Development](#milestone-1-mockup-and-data-model-development)
   * [Milestone 2: Administration](#milestone-2-administration)
   * [Milestone 3: Raspberry Pi](#milestone-3-raspberry-pi-appliance-monitor)
-* [Community Feedback](#community-feedback)
+* [Initial User Study](#initial-user-study)
 * [Contact Us](#contact-us)
 
 
@@ -229,8 +229,10 @@ The goals of Milestone 3 include the following:
 Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.com/wash-n-dash/wash-n-dash/milestone/3) and consisted of # issues. Progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3). 
 
 
-# Community Feedback
-We asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
+# Initial User Study
+Provide a section called “Initial User Study”. This section should describe who you recruited to look at your site, how you conducted the study, and a summary of the feedback you obtained from them
+
+We recieved the following community feedback where we asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
 * add a reservation feature for machines (to show intended use)
 * have the description on the landing page be clickable
 * have a list view for the machines in addition to the card view
