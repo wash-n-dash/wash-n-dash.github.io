@@ -232,7 +232,7 @@ Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.
 # Initial User Study
 Provide a section called “Initial User Study”. This section should describe who you recruited to look at your site, how you conducted the study, and a summary of the feedback you obtained from them
 
-We recieved the following community feedback where we asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
+We received the following community feedback where we asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
 * add a reservation feature for machines (to show intended use)
 * have the description on the landing page be clickable
 * have a list view for the machines in addition to the card view
