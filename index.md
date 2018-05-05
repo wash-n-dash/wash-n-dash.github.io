@@ -269,6 +269,6 @@ We received the following community feedback where we asked 5 anonymous people t
 * [Justin Pham](https://jpham79.github.io/) (CS): jpham79@hawaii.edu
   * Student by day, gamer by night
 * [Olivia Murray](https://olivia-murray.github.io/) (CS): omurray4@hawaii.edu
-  * 
+  * Student, gamer, and derby girl
 * David Badke (CS): @hawaii.edu
-  * 
+  * Mysterious motercycle/hacker dude
