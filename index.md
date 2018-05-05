@@ -25,38 +25,31 @@ Our web application currently performs as follows:
 
 When you come to [the deployed app](http://washndash.meteorapp.com/#/), you are taken to the following landing page where you can read a description about the application and view the number of available washers and dryers. 
 
-[<img src="docs/landing-M2.png">](http://washndash.meteorapp.com/#/)
+[<img src="docs/landing-M3.png">](http://washndash.meteorapp.com/#/)
 
 From the landing page, you can click the login dropdown in the menu bar. You can then either select to sign in to your account...
 
-[<img src="docs/Signin-1.png">](http://washndash.meteorapp.com/#/signin)
+[<img src="docs/Signin-1-M3.png">](http://washndash.meteorapp.com/#/signin)
 
 ...or sign up for a new account.  
 
-[<img src="docs/Signup-1.png">](http://washndash.meteorapp.com/#/signup)
+[<img src="docs/Signup-1-M3.png">](http://washndash.meteorapp.com/#/signup)
 
 Once logged in, you can view the available washers/dryers on the following machines page. On this page, you can filter the machine cards by location or by machine type using the two multiple-selection search dropdowns. 
 
-[<img src="docs/machine-M2.png">](http://washndash.meteorapp.com/#/machines)
+[<img src="docs/machine-M3.png">](http://washndash.meteorapp.com/#/machines)
 
 You can click the update button on any machine card to add 15 minutes to the time remaining field or you can click the report button which brings up a modal. In the modal you can add a timestamped report and view all past reports for that machine. 
 
-[<img src="docs/machineModal-M2.png">](http://washndash.meteorapp.com/#/machines)
+[<img src="docs/Machine-report-M3.png">](http://washndash.meteorapp.com/#/machines)
 
-If you log in as a user with the role of administration, one of the additional pages available, the admin page, shows the table of machines with their corresponding number, machine type, location, and time remaining status.  You are also able to toggle between enabled/disabled for each machine.  
+If you log in as a user with the role of administration, one of the additional pages available, the admin page, shows the table of machines with their corresponding number, machine type, location, and time remaining status.  You are also able to toggle between enabled/disabled for each machine. When you click on the "add machine" button, another row is added to the table with default editable data. 
 
-[<img src="docs/admin-M2.png">](http://washndash.meteorapp.com/#/admin)
-
-When you click on the "add machine" button, another row is added to the table with default editable data. 
-
-[<img src="docs/adminAdd-M2.png">](http://washndash.meteorapp.com/#/admin)
+[<img src="docs/admin-M3.png">](http://washndash.meteorapp.com/#/admin)
 
 The other additional page visible for only admin users is the report page. The table lists all of the reports and their corresponding machine numbers. You can manage the reports here by choosing to delete a report which asks for a confirmation before actually removing it. 
 
-[<img src="docs/adminReport-M2.png">](http://washndash.meteorapp.com/#/reports)
-
-[<img src="docs/adminReportModal-M2.png">](http://washndash.meteorapp.com/#/reports)
-
+[<img src="docs/adminReport-M3.png">](http://washndash.meteorapp.com/#/reports)
 
 # Installation Instructions
 How to download, install, and deploy the system:
