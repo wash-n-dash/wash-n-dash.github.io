@@ -43,6 +43,10 @@ You can click the update button on any machine card to add 15 minutes to the tim
 
 [<img src="docs/Machine-report-M3.png">](http://washndash.meteorapp.com/#/machines)
 
+You can also view laundry room locations with our Find a Laundry Room page, which uses Google Maps.
+
+[<img src="docs/Map-M3.png">](http://washndash.meteorapp.com/#/map)
+
 If you log in as a user with the role of administration, one of the additional pages available, the admin page, shows the table of machines with their corresponding number, machine type, location, and time remaining status.  You are also able to toggle between enabled/disabled for each machine. When you click on the "add machine" button, another row is added to the table with default editable data. 
 
 [<img src="docs/admin-M3.png">](http://washndash.meteorapp.com/#/admin)
