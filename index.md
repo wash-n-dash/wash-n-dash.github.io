@@ -221,6 +221,30 @@ The goals of Milestone 3 include the following:
 
 Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.com/wash-n-dash/wash-n-dash/milestone/3) and consisted of # issues. Progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3). 
 
+The following additional/edited pages were implemented during M2:
+
+Landing Page
+
+<img width="400px" src="docs/landing-M3.png">
+
+Available Machines Page (which replaced Washer/Dryer Usage Pages) and report modal
+
+<img width="400px" src="docs/machine-M3.png">
+
+<img width="400px" src="docs/Machine-report-M3.png">
+
+Map Page
+
+<img width="400px" src="docs/Map-M3.png">
+
+Admin Page
+
+<img width="400px" src="docs/admin-M2.png">
+
+Admin Report Page and confirmation modal
+
+<img width="400px" src="docs/adminReport-M3.png">
+
 
 # Initial User Study
 Provide a section called “Initial User Study”. This section should describe who you recruited to look at your site, how you conducted the study, and a summary of the feedback you obtained from them
