@@ -99,6 +99,7 @@ client/
 imports/
   api/           
     machine/
+    report/
   startup/       # Define code to run when system starts up (client-only, server-only)
     both/
     client/        
@@ -217,13 +218,13 @@ Admin Report Page and confirmation modal
 
 
 ### Milestone 3: Raspberry Pi Appliance Monitor
-This milestone starts on 4/24/18 and ends on 5/4/18
+This milestone starts on 4/24/18 and ended on 5/4/18
 
-The goals of Milestone 3 include the following:
-* Set up authentication using the University of Hawaii test CAS system
+The goals of Milestone 3 included the following:
+* Edited UI
 * Applying a raspberry pi appliance monitor (using an accelerometer) in order to more accurately reflect the usage of the washing machines/dryers in the laundry room(s)
 
-Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.com/wash-n-dash/wash-n-dash/milestone/3) and consisted of # issues. Progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3). 
+Milestone 3 was implemented as [Wash-N-Dash GitHub Milestone M3](https://github.com/wash-n-dash/wash-n-dash/milestone/3) and consisted of 12 issues. Progress was managed via the [Wash-N-Dash GitHub Project M3](https://github.com/wash-n-dash/wash-n-dash/projects/3). 
 
 The following additional/edited pages were implemented during M2:
 
@@ -231,7 +232,7 @@ Landing Page
 
 <img width="400px" src="docs/landing-M3.png">
 
-Available Machines Page (which replaced Washer/Dryer Usage Pages) and report modal
+Available Machines Page and report modal
 
 <img width="400px" src="docs/machine-M3.png">
 
@@ -245,14 +246,12 @@ Admin Page
 
 <img width="400px" src="docs/admin-M2.png">
 
-Admin Report Page and confirmation modal
+Admin Report Page
 
 <img width="400px" src="docs/adminReport-M3.png">
 
 
 # Initial User Study
-Provide a section called “Initial User Study”. This section should describe who you recruited to look at your site, how you conducted the study, and a summary of the feedback you obtained from them
-
 We received the following community feedback where we asked 5 anonymous people to tell us how we can improve our application. Here are some of the responses:
 * add a reservation feature for machines (to show intended use)
 * have the description on the landing page be clickable
@@ -265,7 +264,7 @@ We received the following community feedback where we asked 5 anonymous people t
 
 # Contact Us
 * [Riley Cammack](https://rcammack.github.io/) (CENG): rcammack@hawaii.edu
-  * loves ice cream and playing catan
+  * ice cream enthusiast
 * [Justin Pham](https://jpham79.github.io/) (CS): jpham79@hawaii.edu
   * Student by day, gamer by night
 * [Olivia Murray](https://olivia-murray.github.io/) (CS): omurray4@hawaii.edu
