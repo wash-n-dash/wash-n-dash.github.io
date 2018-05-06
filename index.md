@@ -23,17 +23,17 @@ Our web application will provide a reliable way for UH students to track and upd
 ### System Walkthough
 Our web application currently performs as follows: 
 
-When you come to [the deployed app](http://washndash.meteorapp.com/#/), you are taken to the following landing page where you can read a description about the application and view the number of available washers and dryers. 
+When you come to [the deployed app](http://wash-n-dash.meteorapp.com/#/), you are taken to the following landing page where you can read a description about the application and view the number of available washers and dryers. 
 
-[<img src="docs/landing-M3.png">](http://washndash.meteorapp.com/#/)
+[<img src="docs/landing-M3.png">](http://wash-n-dash.meteorapp.com/#/)
 
 From the landing page, you can click the login dropdown in the menu bar. You can then either select to sign in to your account...
 
-[<img src="docs/Signin-1-M3.png">](http://washndash.meteorapp.com/#/signin)
+[<img src="docs/Signin-1-M3.png">](http://wash-n-dash.meteorapp.com/#/signin)
 
 ...or sign up for a new account.  
 
-[<img src="docs/Signup-1-M3.png">](http://washndash.meteorapp.com/#/signup)
+[<img src="docs/Signup-1-M3.png">](http://wash-n-dash.meteorapp.com/#/signup)
 
 Once logged in, you can view the available washers/dryers on the following machines page. On this page, you can filter the machine cards by location or by machine type using the two multiple-selection search dropdowns. 
 
